@@ -1,5 +1,5 @@
-"# MikroWave" 
-
+# Rohde & Schwarz Challange at TUM Hackathon
+# Team µ~
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide1.png)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide2.png)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide3.png)
