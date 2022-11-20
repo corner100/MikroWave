@@ -2,8 +2,11 @@
 # Team µ~ (MicroWave)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide1.png)
 
-The Rohde & Schwarz QAR50
+# The Rohde & Schwarz QAR50
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide2.png)
+
+#
+## We try to estimate the Reconstruction of the QAR50 and improve the measurement quality.
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide3.png)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide4.png)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide5.png)
