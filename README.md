@@ -40,3 +40,7 @@ https://github.com/corner100/MikroWave/tree/main/net.py
 to reproduce our results.
 
 You just need to generate a reconstruction filter once and use it for every arbitrary objects.
+
+To generate the GT Data run
+https://github.com/corner100/MikroWave/blob/main/generate_gt_from_measurement_coin.py
+You can use this script for coins, square, hexagon, and the c shaped object.
