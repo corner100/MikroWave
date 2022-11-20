@@ -10,7 +10,7 @@
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide3.png)
 
 #
-## We used simple shaped object for the calibration of our algorithm.
+## We used simple shaped objects for the calibration of our algorithm.
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide4.png)
 
 #
