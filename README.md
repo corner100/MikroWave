@@ -26,3 +26,17 @@
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide7.png)
 # Results
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide8.png)
+
+# How to use this repo
+
+The training images are in:
+https://github.com/corner100/MikroWave/tree/main/trainset
+
+The Testset is in:
+https://github.com/corner100/MikroWave/tree/main/testset/images
+
+Run
+https://github.com/corner100/MikroWave/tree/main/net.py
+to reproduce our results.
+
+You just need to generate a reconstruction filter ones and use it for every arbitrary object
