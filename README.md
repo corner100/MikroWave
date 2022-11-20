@@ -1,3 +1,3 @@
 "# MikroWave" 
 
-[alt text](https://github.com/corner100/MikroWave/images/Slides01.jpg?raw=true)
+[alt text](https://github.com/corner100/MikroWave/images/Slide1.png?raw=true)
