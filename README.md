@@ -1,6 +1,8 @@
 # Rohde & Schwarz Challange at TUM Hackathon
 # Team µ~ (MicroWave)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide1.png)
+
+The Rohde & Schwarz QAR50
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide2.png)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide3.png)
 ![MikroWave](https://github.com/corner100/MikroWave/blob/main/images/Slide4.png)
