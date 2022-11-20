@@ -39,4 +39,4 @@ Run
 https://github.com/corner100/MikroWave/tree/main/net.py
 to reproduce our results.
 
-You just need to generate a reconstruction filter ones and use it for every arbitrary object
+You just need to generate a reconstruction filter once and use it for every arbitrary objects.
